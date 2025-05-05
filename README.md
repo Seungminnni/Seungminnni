@@ -10,4 +10,4 @@
  <li>Computer engineering of YU (changed UNIV, NOW)/ 영남대학교 컴퓨터공학전공(편입, 현재)</li>
 </ol>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungminnni&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungminnni)](https://github.com/anuraghazra/github-readme-stats)
