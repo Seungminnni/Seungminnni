@@ -9,4 +9,4 @@
  <li>Computer engineering of KMU (changed major)/ 계명대학교 컴퓨터공학전공(전과)</li>
  <li>Computer engineering of YU (changed UNIV, NOW)/ 영남대학교 컴퓨터공학전공(편입, 현재)</li>
 </ol>
-https://github-readme-stats.vercel.app/api/top-langs/?username=Seungminnni)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungminnni&layout=compact)
