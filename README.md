@@ -11,5 +11,4 @@
 </ol>
 <h2>Language Usage Stats/언어 사용 현황</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungminnni&theme=dark&layout=compact)](https://github.com/Seungminnni/github-readme-stats)
 
