@@ -26,7 +26,7 @@
 - **LWE 샘플의 관계 보존형 표현을 통한 합성곱 비밀키 복구 모델**  
   한국컴퓨터정보학회 하계학술대회 34(2), 305–308 · 2026 · **제1저자** · [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12931662)
 - **관계 보존형 합성곱 학습을 통한 희소 LWE 비밀키 복구**  
-  대한전자공학회 하계종합학술대회 · 2026 · **제1저자** · [학술대회 프로그램](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12992991)
+  대한전자공학회 하계종합학술대회 · 2026 · **제1저자** · [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12992991)
 - **인공지능 기반 격자 암호 비밀키 복구 공격을 방지하기 위한 영관계 격자 알고리즘**  
   *한국컴퓨터정보학회논문지* 31(1), 121–132 · 2026 · [DOI](https://doi.org/10.9708/jksci.2026.31.01.121)
 
